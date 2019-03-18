@@ -1,0 +1,18 @@
+@import './theme.scss';
+@import '../node_modules/carbon-components/scss/globals/scss/styles.scss';
+
+body {
+	margin: 0;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}
+
+.intro-size {
+	font-size: 1.25rem;
+}
