@@ -65,7 +65,7 @@ export default {
                     name: 'Stock Analyzer',
                     description: 'Stock Analyzer provides tools to predict stock in real-time using Deep Learning. It helps investors make better decisions in terms of investment.',
                     link: 'https://stock-analyzer-huydam.herokuapp.com/',
-                    projectLink: 'https://drive.google.com/drive/folders/1oDRuSa-DnRxPoq3lNT8oxll9axohrWKB'
+                    projectLink: 'https://drive.google.com/file/d/1uvlONIKypph9vTLHE6ltgEiFFXjIskQO/view'
                 },
                 {
                     image: "wknd",
