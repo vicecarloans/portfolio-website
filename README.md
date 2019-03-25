@@ -1,6 +1,7 @@
 # Huy Dam Portfolio Website
 
-My portfolio website utilizing Vue.js.
+My portfolio website utilizing Vue.js. 
+Hosted [here](http://huydam.com/) 
 
 ## Project setup
 
