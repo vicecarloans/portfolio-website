@@ -13,7 +13,7 @@
 
                     <a href="https://www.linkedin.com/in/vicecarloans/" target="_blank" class="bx--btn bx--btn--secondary text-uppercase p-2 ml-2 intro-size"><i class="fab fa-linkedin mr-2"></i>linkedin</a>
                     
-                    <a href="https://drive.google.com/file/d/1QkI7lhxS06bk9cu9mcCp31hT8dPufBnR/view?usp=sharing" target="_blank" class="bx--btn bx--btn--secondary text-uppercase p-2 ml-2 intro-size"><i class="far fa-file mr-2"></i>resume</a>
+                    <a href="https://drive.google.com/file/d/1snT47gIoKa-UFVsc3Pkob9isDeHxUbDQ/view?usp=sharing" target="_blank" class="bx--btn bx--btn--secondary text-uppercase p-2 ml-2 intro-size"><i class="far fa-file mr-2"></i>resume</a>
 
                 </div>
             </div>

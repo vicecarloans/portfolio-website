@@ -56,9 +56,9 @@ export default {
             items: [
                 {
                     image: "treasured", 
-                    name: 'Treasure Card', 
+                    name: 'Treasured', 
                     description: 'Treasure Card is the result of my internship at Treasured Inc. located at Markham, ON. The product allows you to customize your own gift card for your loved ones',
-                    link: 'https://treasured.ca/card/'
+                    link: 'https://treasured.ca/'
                 },
                 {
                     image: "stock-analyzer",
